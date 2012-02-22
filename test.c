@@ -1,5 +1,5 @@
 #include "mem.h"
-    
+#include <stdio.h>    
 
 int main()
 {
